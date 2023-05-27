@@ -1,5 +1,5 @@
 <h2>Olá, sou o Lucas! 🌎</h2> 
-Estou em constante aprendizado em relação às tecnologias e linguagens de programação e desenvolvimento web. Entusiasmado pelo que conhecimento. 
+Estou em constante aprendizado em relação às tecnologias e linguagens de programação e desenvolvimento web. Entusiasmado pelo conhecimento. 
 
 <h3>Linguagens</h3>
 
