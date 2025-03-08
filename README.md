@@ -1,6 +1,5 @@
 <h2>Olá, sou o Lucas! 🌎</h2> 
-Estou diariamente em aprendizado em relação às tecnologias da área de desenvolvimento web, linguagens de programação e banco de dados! Apaixonado pelo conhecimento. 
-Meu atual foco é a criação de sistemas na parte de back-end com Python e Django!
+I am daily learning about web development technologies, programming languages, and databases! Passionate about knowledge. My current focus is on building systems in the back-end with Python and Django!
 
 <h3>Principais Stacks</h3>
 
