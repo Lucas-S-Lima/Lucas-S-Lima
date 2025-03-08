@@ -1,7 +1,7 @@
 <h2>Hello, World! I'm Lucas 🌎</h2> 
 I'm daily learning about web development technologies, programming languages, and databases. Passionate about knowledge. My current focus is on building systems in the back-end with Python and Django!
 
-<h3>Principais Stacks</h3>
+<h3>Technologies</h3>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
