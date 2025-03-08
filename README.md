@@ -1,5 +1,5 @@
-<h2>Hello, World! I'm Lucas! 🌎</h2> 
-I'm daily learning about web development technologies, programming languages, and databases! Passionate about knowledge. My current focus is on building systems in the back-end with Python and Django!
+<h2>Hello, World! I'm Lucas 🌎</h2> 
+I'm daily learning about web development technologies, programming languages, and databases. Passionate about knowledge. My current focus is on building systems in the back-end with Python and Django!
 
 <h3>Principais Stacks</h3>
 
@@ -12,8 +12,7 @@ I'm daily learning about web development technologies, programming languages, an
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-<h3>Contate-me!</h3>
+<h3>Contacts</h3>
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
