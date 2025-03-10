@@ -1,4 +1,4 @@
-<h2>Hello, World! I'm Lucas 🌎</h2> 
+<h2>I'm Lucas! 🌎</h2> 
 I'm daily learning about web development technologies, programming languages, and databases. Passionate about knowledge. My current focus is on building systems in the back-end with Python and Django!
 
 <h3>Languages</h3>
